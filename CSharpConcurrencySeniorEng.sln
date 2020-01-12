@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13ThreadAbortUnhandledNet47
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14LambdaCaptureQ2Demo", "14LambdaCaptureQ2Demo\14LambdaCaptureQ2Demo.csproj", "{651C1DDE-DD14-4D2D-9781-48C07C831839}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15ThreadStartX2Q3Demo", "15ThreadStartX2Q3Demo\15ThreadStartX2Q3Demo.csproj", "{16086EE4-3B7B-4F98-A86E-450C33DBAE6E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{651C1DDE-DD14-4D2D-9781-48C07C831839}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{651C1DDE-DD14-4D2D-9781-48C07C831839}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{651C1DDE-DD14-4D2D-9781-48C07C831839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16086EE4-3B7B-4F98-A86E-450C33DBAE6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16086EE4-3B7B-4F98-A86E-450C33DBAE6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16086EE4-3B7B-4F98-A86E-450C33DBAE6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16086EE4-3B7B-4F98-A86E-450C33DBAE6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
