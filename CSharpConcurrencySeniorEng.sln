@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09ThreadPoolThatPrints", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10ThreadInterruptDemo", "10ThreadInterruptDemo\10ThreadInterruptDemo.csproj", "{F141789B-A5B5-4CEF-99FC-EACEBC0FF86D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11ThreadAbortResetAbortDemo", "11ThreadAbortResetAbortDemo\11ThreadAbortResetAbortDemo.csproj", "{2DAC0D89-74B0-4524-8E6C-61BDD5A3E1EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{F141789B-A5B5-4CEF-99FC-EACEBC0FF86D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F141789B-A5B5-4CEF-99FC-EACEBC0FF86D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F141789B-A5B5-4CEF-99FC-EACEBC0FF86D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DAC0D89-74B0-4524-8E6C-61BDD5A3E1EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DAC0D89-74B0-4524-8E6C-61BDD5A3E1EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DAC0D89-74B0-4524-8E6C-61BDD5A3E1EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DAC0D89-74B0-4524-8E6C-61BDD5A3E1EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
