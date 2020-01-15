@@ -39,6 +39,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16PingPongExample", "16Ping
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17MutexQ1", "17MutexQ1\17MutexQ1.csproj", "{502F28A9-FE3B-4156-88E1-C231B1D4AA82}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18MutexQ2", "18MutexQ2\18MutexQ2.csproj", "{AC5E72DC-7E18-4040-97A4-7C98B3AD23B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{502F28A9-FE3B-4156-88E1-C231B1D4AA82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{502F28A9-FE3B-4156-88E1-C231B1D4AA82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{502F28A9-FE3B-4156-88E1-C231B1D4AA82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC5E72DC-7E18-4040-97A4-7C98B3AD23B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC5E72DC-7E18-4040-97A4-7C98B3AD23B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC5E72DC-7E18-4040-97A4-7C98B3AD23B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC5E72DC-7E18-4040-97A4-7C98B3AD23B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
