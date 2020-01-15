@@ -53,6 +53,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23MutexQ7", "23MutexQ7\23Mu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24SemaphoreFullException", "24SemaphoreFullException\24SemaphoreFullException.csproj", "{146252A5-1AA7-4051-9116-041D2A1A9C9C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25MissedSignal", "25MissedSignal\25MissedSignal.csproj", "{6813A084-6177-4B65-B676-D5417555FBC6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{146252A5-1AA7-4051-9116-041D2A1A9C9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{146252A5-1AA7-4051-9116-041D2A1A9C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{146252A5-1AA7-4051-9116-041D2A1A9C9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6813A084-6177-4B65-B676-D5417555FBC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6813A084-6177-4B65-B676-D5417555FBC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6813A084-6177-4B65-B676-D5417555FBC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6813A084-6177-4B65-B676-D5417555FBC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
