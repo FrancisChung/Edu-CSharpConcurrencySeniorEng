@@ -51,9 +51,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "22MutexQ6", "22MutexQ6\22Mu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23MutexQ7", "23MutexQ7\23MutexQ7.csproj", "{0D24AA81-992F-4AB9-8B4F-CA26A1D8386C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24SemaphoreFullException", "24SemaphoreFullException\24SemaphoreFullException.csproj", "{146252A5-1AA7-4051-9116-041D2A1A9C9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "24SemaphoreFullException", "24SemaphoreFullException\24SemaphoreFullException.csproj", "{146252A5-1AA7-4051-9116-041D2A1A9C9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25MissedSignal", "25MissedSignal\25MissedSignal.csproj", "{6813A084-6177-4B65-B676-D5417555FBC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "25MissedSignal", "25MissedSignal\25MissedSignal.csproj", "{6813A084-6177-4B65-B676-D5417555FBC6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "26MissedSignalsFix", "26MissedSignalsFix\26MissedSignalsFix.csproj", "{E3D60307-4FB2-479B-92EF-7AA7E46ED244}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27SemaphorePingPong", "27SemaphorePingPong\27SemaphorePingPong.csproj", "{3E6CEA99-0CB7-4FBD-BC6C-D9A4F16FC6A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +169,14 @@ Global
 		{6813A084-6177-4B65-B676-D5417555FBC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6813A084-6177-4B65-B676-D5417555FBC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6813A084-6177-4B65-B676-D5417555FBC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3D60307-4FB2-479B-92EF-7AA7E46ED244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3D60307-4FB2-479B-92EF-7AA7E46ED244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3D60307-4FB2-479B-92EF-7AA7E46ED244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3D60307-4FB2-479B-92EF-7AA7E46ED244}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E6CEA99-0CB7-4FBD-BC6C-D9A4F16FC6A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E6CEA99-0CB7-4FBD-BC6C-D9A4F16FC6A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E6CEA99-0CB7-4FBD-BC6C-D9A4F16FC6A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E6CEA99-0CB7-4FBD-BC6C-D9A4F16FC6A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
