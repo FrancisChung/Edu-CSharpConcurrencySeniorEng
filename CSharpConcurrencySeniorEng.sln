@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29NamedSemaphoreDemo", "29N
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30InterlockedDemo", "30InterlockedDemo\30InterlockedDemo.csproj", "{12A16902-EAFA-44AF-9776-6179E42315E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31InterlockedPingPong", "31InterlockedPingPong\31InterlockedPingPong.csproj", "{76240919-CBCA-4FD6-9384-D3510ACC5501}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{12A16902-EAFA-44AF-9776-6179E42315E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12A16902-EAFA-44AF-9776-6179E42315E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12A16902-EAFA-44AF-9776-6179E42315E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76240919-CBCA-4FD6-9384-D3510ACC5501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76240919-CBCA-4FD6-9384-D3510ACC5501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76240919-CBCA-4FD6-9384-D3510ACC5501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76240919-CBCA-4FD6-9384-D3510ACC5501}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
