@@ -57,17 +57,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "25MissedSignal", "25MissedS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "26MissedSignalsFix", "26MissedSignalsFix\26MissedSignalsFix.csproj", "{E3D60307-4FB2-479B-92EF-7AA7E46ED244}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27SemaphorePingPong", "27SemaphorePingPong\27SemaphorePingPong.csproj", "{3E6CEA99-0CB7-4FBD-BC6C-D9A4F16FC6A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "27SemaphorePingPong", "27SemaphorePingPong\27SemaphorePingPong.csproj", "{3E6CEA99-0CB7-4FBD-BC6C-D9A4F16FC6A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28SemaphorePingPong2", "28SemaphorePingPong2\28SemaphorePingPong2.csproj", "{D6CBB08B-C334-4B77-BA7B-6D03D33317C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "28SemaphorePingPong2", "28SemaphorePingPong2\28SemaphorePingPong2.csproj", "{D6CBB08B-C334-4B77-BA7B-6D03D33317C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29NamedSemaphoreDemo", "29NamedSemaphoreDemo\29NamedSemaphoreDemo.csproj", "{EC6ED559-DBB3-46E6-B9E4-2608C2656140}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "29NamedSemaphoreDemo", "29NamedSemaphoreDemo\29NamedSemaphoreDemo.csproj", "{EC6ED559-DBB3-46E6-B9E4-2608C2656140}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30InterlockedDemo", "30InterlockedDemo\30InterlockedDemo.csproj", "{12A16902-EAFA-44AF-9776-6179E42315E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "30InterlockedDemo", "30InterlockedDemo\30InterlockedDemo.csproj", "{12A16902-EAFA-44AF-9776-6179E42315E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31InterlockedPingPong", "31InterlockedPingPong\31InterlockedPingPong.csproj", "{76240919-CBCA-4FD6-9384-D3510ACC5501}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "31InterlockedPingPong", "31InterlockedPingPong\31InterlockedPingPong.csproj", "{76240919-CBCA-4FD6-9384-D3510ACC5501}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32EventWaitHandle", "32EventWaitHandle\32EventWaitHandle.csproj", "{55B55E2A-1588-48E4-9E69-43672E0F565A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "32EventWaitHandle", "32EventWaitHandle\32EventWaitHandle.csproj", "{55B55E2A-1588-48E4-9E69-43672E0F565A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33AutoResetEventDemo", "33AutoResetEventDemo\33AutoResetEventDemo.csproj", "{6AF1FB1F-7BA0-4A4A-A7D0-D72D5AFE68FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -207,6 +209,10 @@ Global
 		{55B55E2A-1588-48E4-9E69-43672E0F565A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55B55E2A-1588-48E4-9E69-43672E0F565A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55B55E2A-1588-48E4-9E69-43672E0F565A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AF1FB1F-7BA0-4A4A-A7D0-D72D5AFE68FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AF1FB1F-7BA0-4A4A-A7D0-D72D5AFE68FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AF1FB1F-7BA0-4A4A-A7D0-D72D5AFE68FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AF1FB1F-7BA0-4A4A-A7D0-D72D5AFE68FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
