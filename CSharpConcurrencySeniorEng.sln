@@ -73,9 +73,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "33AutoResetEventDemo", "33A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "34ManualResetEvent", "34ManualResetEvent\34ManualResetEvent.csproj", "{2D071335-3370-401F-B41E-897EDE3B6025}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35Monitor", "35Monitor\35Monitor.csproj", "{3AA35EEF-5BEE-4152-B034-9D9D574B5C39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "35Monitor", "35Monitor\35Monitor.csproj", "{3AA35EEF-5BEE-4152-B034-9D9D574B5C39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36MonitorWaitException", "36MonitorWaitException\36MonitorWaitException.csproj", "{E14F0D88-FB4A-405D-A809-7152C6887170}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "36MonitorWaitException", "36MonitorWaitException\36MonitorWaitException.csproj", "{E14F0D88-FB4A-405D-A809-7152C6887170}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "37PrimeFinderMonitor", "37MonitorWaitCorrect\37PrimeFinderMonitor.csproj", "{DEFB8ECA-ECF5-427D-80B3-C23473224394}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -231,6 +233,10 @@ Global
 		{E14F0D88-FB4A-405D-A809-7152C6887170}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E14F0D88-FB4A-405D-A809-7152C6887170}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E14F0D88-FB4A-405D-A809-7152C6887170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEFB8ECA-ECF5-427D-80B3-C23473224394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEFB8ECA-ECF5-427D-80B3-C23473224394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEFB8ECA-ECF5-427D-80B3-C23473224394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEFB8ECA-ECF5-427D-80B3-C23473224394}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
