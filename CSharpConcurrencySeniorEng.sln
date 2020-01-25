@@ -83,6 +83,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "38PingPongMonitor", "38Ping
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "39ValueTypeMonitor", "39ValueTypeMonitor\39ValueTypeMonitor.csproj", "{844CA6BF-D2BE-4C81-B8A5-5AE9A9AEB22E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40ValueTypeMonitorWorks", "40ValueTypeMonitorWorks\40ValueTypeMonitorWorks.csproj", "{F8976679-3031-4A26-9D59-477DB7DBA0DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -249,6 +251,10 @@ Global
 		{844CA6BF-D2BE-4C81-B8A5-5AE9A9AEB22E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{844CA6BF-D2BE-4C81-B8A5-5AE9A9AEB22E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{844CA6BF-D2BE-4C81-B8A5-5AE9A9AEB22E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8976679-3031-4A26-9D59-477DB7DBA0DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8976679-3031-4A26-9D59-477DB7DBA0DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8976679-3031-4A26-9D59-477DB7DBA0DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8976679-3031-4A26-9D59-477DB7DBA0DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
