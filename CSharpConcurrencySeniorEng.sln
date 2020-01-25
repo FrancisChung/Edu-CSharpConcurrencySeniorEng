@@ -85,6 +85,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "39ValueTypeMonitor", "39Val
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40ValueTypeMonitorWorks", "40ValueTypeMonitorWorks\40ValueTypeMonitorWorks.csproj", "{F8976679-3031-4A26-9D59-477DB7DBA0DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "41MonitorQ1", "41MonitorQ1\41MonitorQ1.csproj", "{176A8FCB-9AA8-4536-9508-61DA79FBE4EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -255,6 +257,10 @@ Global
 		{F8976679-3031-4A26-9D59-477DB7DBA0DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8976679-3031-4A26-9D59-477DB7DBA0DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8976679-3031-4A26-9D59-477DB7DBA0DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{176A8FCB-9AA8-4536-9508-61DA79FBE4EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{176A8FCB-9AA8-4536-9508-61DA79FBE4EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{176A8FCB-9AA8-4536-9508-61DA79FBE4EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{176A8FCB-9AA8-4536-9508-61DA79FBE4EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
