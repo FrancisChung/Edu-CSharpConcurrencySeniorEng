@@ -79,17 +79,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "36MonitorWaitException", "3
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "37PrimeFinderMonitor", "37MonitorWaitCorrect\37PrimeFinderMonitor.csproj", "{DEFB8ECA-ECF5-427D-80B3-C23473224394}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "38PingPongMonitor", "38PingPongMonitor\38PingPongMonitor.csproj", "{4FAC8DB0-6D1C-4727-BCE8-F617C85C00C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "38PingPongMonitor", "38PingPongMonitor\38PingPongMonitor.csproj", "{4FAC8DB0-6D1C-4727-BCE8-F617C85C00C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "39ValueTypeMonitor", "39ValueTypeMonitor\39ValueTypeMonitor.csproj", "{844CA6BF-D2BE-4C81-B8A5-5AE9A9AEB22E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "39ValueTypeMonitor", "39ValueTypeMonitor\39ValueTypeMonitor.csproj", "{844CA6BF-D2BE-4C81-B8A5-5AE9A9AEB22E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40ValueTypeMonitorWorks", "40ValueTypeMonitorWorks\40ValueTypeMonitorWorks.csproj", "{F8976679-3031-4A26-9D59-477DB7DBA0DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "40ValueTypeMonitorWorks", "40ValueTypeMonitorWorks\40ValueTypeMonitorWorks.csproj", "{F8976679-3031-4A26-9D59-477DB7DBA0DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "41MonitorQ1", "41MonitorQ1\41MonitorQ1.csproj", "{176A8FCB-9AA8-4536-9508-61DA79FBE4EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "41MonitorQ1", "41MonitorQ1\41MonitorQ1.csproj", "{176A8FCB-9AA8-4536-9508-61DA79FBE4EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "42MonitorQ2", "42MonitorQ2\42MonitorQ2.csproj", "{30BA85C6-5A34-4463-9F5E-EF605D05865F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "42MonitorQ2", "42MonitorQ2\42MonitorQ2.csproj", "{30BA85C6-5A34-4463-9F5E-EF605D05865F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "43MonitorQ3", "43MonitorQ3\43MonitorQ3.csproj", "{E25EFAB9-D64D-49E4-8E36-90CEE23B43E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "43MonitorQ3", "43MonitorQ3\43MonitorQ3.csproj", "{E25EFAB9-D64D-49E4-8E36-90CEE23B43E8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "44MonitorQ4", "44MonitorQ4\44MonitorQ4.csproj", "{2CD6170C-A9AB-4823-8E72-591D94A86A16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "45LockPingPong", "45LockPingPong\45LockPingPong.csproj", "{C4914B9B-61A7-4B8E-BFE2-56B920915D11}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -273,6 +277,14 @@ Global
 		{E25EFAB9-D64D-49E4-8E36-90CEE23B43E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E25EFAB9-D64D-49E4-8E36-90CEE23B43E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E25EFAB9-D64D-49E4-8E36-90CEE23B43E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CD6170C-A9AB-4823-8E72-591D94A86A16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CD6170C-A9AB-4823-8E72-591D94A86A16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CD6170C-A9AB-4823-8E72-591D94A86A16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CD6170C-A9AB-4823-8E72-591D94A86A16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4914B9B-61A7-4B8E-BFE2-56B920915D11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4914B9B-61A7-4B8E-BFE2-56B920915D11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4914B9B-61A7-4B8E-BFE2-56B920915D11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4914B9B-61A7-4B8E-BFE2-56B920915D11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
