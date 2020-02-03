@@ -28,12 +28,12 @@ namespace _49Barrier
             Console.WriteLine("Thread " + Thread.CurrentThread.ManagedThreadId + " released");
             Thread.Sleep(1000);
 
-            barrier.SignalAndWait();
-            Console.WriteLine("Thread " + Thread.CurrentThread.ManagedThreadId + " released");
-            Thread.Sleep(1000);
+            //barrier.SignalAndWait();
+            //Console.WriteLine("Thread " + Thread.CurrentThread.ManagedThreadId + " released");
+            //Thread.Sleep(1000);
 
-            barrier.SignalAndWait();
-            Console.WriteLine("Thread " + Thread.CurrentThread.ManagedThreadId + " released");
+            //barrier.SignalAndWait();
+            //Console.WriteLine("Thread " + Thread.CurrentThread.ManagedThreadId + " released");
         }
 
         public void runTest()
@@ -48,8 +48,11 @@ namespace _49Barrier
                 });
 
             for (int i = 0; i < 3; i++)
+            {
+                Console.WriteLine("Thread " + threads[i].ManagedThreadId + " started");
                 threads[i].Start();
-
+                Thread.Sleep(400);
+            }
             for (int i = 0; i < 3; i++)
                 threads[i].Join();
 
