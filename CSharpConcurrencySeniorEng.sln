@@ -103,9 +103,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "48PingPongSpinWait", "48Pin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "49Barrier", "49Barrier\49Barrier.csproj", "{346D7ADF-37E1-429F-BFD7-324F046EFEA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "50CountDownEvent", "50CountDownEvent\50CountDownEvent.csproj", "{E5E68392-31CD-4A54-8297-5DFD05F40B2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "50CountDownEvent", "50CountDownEvent\50CountDownEvent.csproj", "{E5E68392-31CD-4A54-8297-5DFD05F40B2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "51ThreadLocal", "51ThreadLocal\51ThreadLocal.csproj", "{15449AE2-501E-40DD-B5FC-E08873D8D9BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "51ThreadLocal", "51ThreadLocal\51ThreadLocal.csproj", "{15449AE2-501E-40DD-B5FC-E08873D8D9BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "52TaskExample", "52TaskExample\52TaskExample.csproj", "{AFF2EBDF-6EF1-4676-BB24-F9F706B6F741}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -321,6 +323,10 @@ Global
 		{15449AE2-501E-40DD-B5FC-E08873D8D9BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15449AE2-501E-40DD-B5FC-E08873D8D9BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15449AE2-501E-40DD-B5FC-E08873D8D9BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFF2EBDF-6EF1-4676-BB24-F9F706B6F741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFF2EBDF-6EF1-4676-BB24-F9F706B6F741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFF2EBDF-6EF1-4676-BB24-F9F706B6F741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFF2EBDF-6EF1-4676-BB24-F9F706B6F741}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
