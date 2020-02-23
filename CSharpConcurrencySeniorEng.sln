@@ -107,9 +107,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "50CountDownEvent", "50Count
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "51ThreadLocal", "51ThreadLocal\51ThreadLocal.csproj", "{15449AE2-501E-40DD-B5FC-E08873D8D9BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "52TaskExample", "52TaskExample\52TaskExample.csproj", "{AFF2EBDF-6EF1-4676-BB24-F9F706B6F741}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "52TaskExample", "52TaskExample\52TaskExample.csproj", "{AFF2EBDF-6EF1-4676-BB24-F9F706B6F741}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "53TaskResultsDemo", "53TaskResultsDemo\53TaskResultsDemo.csproj", "{94531F3D-2F8C-41DC-95BD-11D854B6732B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "53TaskResultsDemo", "53TaskResultsDemo\53TaskResultsDemo.csproj", "{94531F3D-2F8C-41DC-95BD-11D854B6732B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "54TaskFactoryDemo", "54TaskFactoryDemo\54TaskFactoryDemo.csproj", "{72266B58-EE89-4310-9DE5-86E10F664E76}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -333,6 +335,10 @@ Global
 		{94531F3D-2F8C-41DC-95BD-11D854B6732B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94531F3D-2F8C-41DC-95BD-11D854B6732B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94531F3D-2F8C-41DC-95BD-11D854B6732B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72266B58-EE89-4310-9DE5-86E10F664E76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72266B58-EE89-4310-9DE5-86E10F664E76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72266B58-EE89-4310-9DE5-86E10F664E76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72266B58-EE89-4310-9DE5-86E10F664E76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
