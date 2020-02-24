@@ -111,9 +111,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "52TaskExample", "52TaskExam
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "53TaskResultsDemo", "53TaskResultsDemo\53TaskResultsDemo.csproj", "{94531F3D-2F8C-41DC-95BD-11D854B6732B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "54TaskFactoryDemo", "54TaskFactoryDemo\54TaskFactoryDemo.csproj", "{72266B58-EE89-4310-9DE5-86E10F664E76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "54TaskFactoryDemo", "54TaskFactoryDemo\54TaskFactoryDemo.csproj", "{72266B58-EE89-4310-9DE5-86E10F664E76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "55TaskContinuationDemo", "55TaskContinuationDemo\55TaskContinuationDemo.csproj", "{05B90839-7E3A-4705-8B91-FB16721328FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "55TaskContinuationDemo", "55TaskContinuationDemo\55TaskContinuationDemo.csproj", "{05B90839-7E3A-4705-8B91-FB16721328FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "56MemoryModel", "56MemoryModel\56MemoryModel.csproj", "{16B8852F-F466-4A1F-B32E-C7B508A7AE00}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -345,6 +347,10 @@ Global
 		{05B90839-7E3A-4705-8B91-FB16721328FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05B90839-7E3A-4705-8B91-FB16721328FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05B90839-7E3A-4705-8B91-FB16721328FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16B8852F-F466-4A1F-B32E-C7B508A7AE00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16B8852F-F466-4A1F-B32E-C7B508A7AE00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16B8852F-F466-4A1F-B32E-C7B508A7AE00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16B8852F-F466-4A1F-B32E-C7B508A7AE00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
