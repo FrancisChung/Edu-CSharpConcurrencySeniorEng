@@ -125,6 +125,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "59PollingLoopPattern", "59P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "60AsyncSleepDemo1", "60AsyncSleepDemo1\60AsyncSleepDemo1.csproj", "{A1394E78-3BF3-4AF7-96A1-0E8014C537C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "61AsyncSleepDemo2", "61AsyncSleepDemo2\61AsyncSleepDemo2.csproj", "{4D6C3E24-BD87-47F8-8BEF-95C615CD278F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -375,6 +377,10 @@ Global
 		{A1394E78-3BF3-4AF7-96A1-0E8014C537C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1394E78-3BF3-4AF7-96A1-0E8014C537C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1394E78-3BF3-4AF7-96A1-0E8014C537C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D6C3E24-BD87-47F8-8BEF-95C615CD278F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D6C3E24-BD87-47F8-8BEF-95C615CD278F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D6C3E24-BD87-47F8-8BEF-95C615CD278F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D6C3E24-BD87-47F8-8BEF-95C615CD278F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
