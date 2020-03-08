@@ -121,7 +121,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "57MemoryBarrier1", "57Memor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "58MemoryBarrier2", "58MemoryBarrier2\58MemoryBarrier2.csproj", "{E0720A52-2AC2-42EC-A7E6-EC096B126F2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "59PollingLoopPattern", "59PollingLoopPattern\59PollingLoopPattern.csproj", "{4F00A880-4AB5-4FA4-8E57-F21A115C639B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "59PollingLoopPattern", "59PollingLoopPattern\59PollingLoopPattern.csproj", "{4F00A880-4AB5-4FA4-8E57-F21A115C639B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "60AsyncSleepDemo1", "60AsyncSleepDemo1\60AsyncSleepDemo1.csproj", "{A1394E78-3BF3-4AF7-96A1-0E8014C537C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -369,6 +371,10 @@ Global
 		{4F00A880-4AB5-4FA4-8E57-F21A115C639B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F00A880-4AB5-4FA4-8E57-F21A115C639B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F00A880-4AB5-4FA4-8E57-F21A115C639B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1394E78-3BF3-4AF7-96A1-0E8014C537C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1394E78-3BF3-4AF7-96A1-0E8014C537C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1394E78-3BF3-4AF7-96A1-0E8014C537C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1394E78-3BF3-4AF7-96A1-0E8014C537C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
