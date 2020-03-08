@@ -127,6 +127,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "60AsyncSleepDemo1", "60Asyn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "61AsyncSleepDemo2", "61AsyncSleepDemo2\61AsyncSleepDemo2.csproj", "{4D6C3E24-BD87-47F8-8BEF-95C615CD278F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "62AsyncSleepDemo3", "62AsyncSleepDemo3\62AsyncSleepDemo3.csproj", "{1B512047-F60B-4212-ADCC-14420F009D2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -381,6 +383,10 @@ Global
 		{4D6C3E24-BD87-47F8-8BEF-95C615CD278F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D6C3E24-BD87-47F8-8BEF-95C615CD278F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D6C3E24-BD87-47F8-8BEF-95C615CD278F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B512047-F60B-4212-ADCC-14420F009D2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B512047-F60B-4212-ADCC-14420F009D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B512047-F60B-4212-ADCC-14420F009D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B512047-F60B-4212-ADCC-14420F009D2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
