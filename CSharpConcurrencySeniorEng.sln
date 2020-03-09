@@ -131,6 +131,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "62AsyncSleepDemo3", "62Asyn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "63AsyncSleepTask", "63AsyncSleepTask\63AsyncSleepTask.csproj", "{0590FA42-4813-4B79-8E3B-10D637656DBA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "64AsyncSleep3Awaits", "64AsyncSleep3Awaits\64AsyncSleep3Awaits.csproj", "{ADDC090A-12FF-4039-8FD5-63CE056FBE1F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -393,6 +395,10 @@ Global
 		{0590FA42-4813-4B79-8E3B-10D637656DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0590FA42-4813-4B79-8E3B-10D637656DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0590FA42-4813-4B79-8E3B-10D637656DBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADDC090A-12FF-4039-8FD5-63CE056FBE1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADDC090A-12FF-4039-8FD5-63CE056FBE1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADDC090A-12FF-4039-8FD5-63CE056FBE1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADDC090A-12FF-4039-8FD5-63CE056FBE1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
