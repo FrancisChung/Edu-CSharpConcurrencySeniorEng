@@ -20,9 +20,9 @@ namespace _62AsyncSleepDemo3
         {
             Stopwatch sw = new Stopwatch();
             sw.Start();
-            Console.WriteLine("Sleep Task startingx");
+            Console.WriteLine("Sleep Task starting");
             Task sleepTask = sleep();
-            Console.WriteLine("About to wait in main method for sync sleep method to finish.");
+            Console.WriteLine($"About to wait in main method for sync sleep method to finish. Thread is in {Thread.CurrentThread.ManagedThreadId}");
             sleepTask.Wait();
             sw.Stop();
             Console.WriteLine("Main thread id " + Thread.CurrentThread.ManagedThreadId + " program execution took = " + (sw.ElapsedMilliseconds / 1000.0) + " seconds");
