@@ -123,15 +123,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "58MemoryBarrier2", "58Memor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "59PollingLoopPattern", "59PollingLoopPattern\59PollingLoopPattern.csproj", "{4F00A880-4AB5-4FA4-8E57-F21A115C639B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "60AsyncSleepDemo1", "60AsyncSleepDemo1\60AsyncSleepDemo1.csproj", "{A1394E78-3BF3-4AF7-96A1-0E8014C537C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "60AsyncSleepDemo1", "60AsyncSleepDemo1\60AsyncSleepDemo1.csproj", "{A1394E78-3BF3-4AF7-96A1-0E8014C537C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "61AsyncSleepDemo2", "61AsyncSleepDemo2\61AsyncSleepDemo2.csproj", "{4D6C3E24-BD87-47F8-8BEF-95C615CD278F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "61AsyncSleepDemo2", "61AsyncSleepDemo2\61AsyncSleepDemo2.csproj", "{4D6C3E24-BD87-47F8-8BEF-95C615CD278F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "62AsyncSleepDemo3", "62AsyncSleepDemo3\62AsyncSleepDemo3.csproj", "{1B512047-F60B-4212-ADCC-14420F009D2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "62AsyncSleepDemo3", "62AsyncSleepDemo3\62AsyncSleepDemo3.csproj", "{1B512047-F60B-4212-ADCC-14420F009D2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "63AsyncSleepTask", "63AsyncSleepTask\63AsyncSleepTask.csproj", "{0590FA42-4813-4B79-8E3B-10D637656DBA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "63AsyncSleepTask", "63AsyncSleepTask\63AsyncSleepTask.csproj", "{0590FA42-4813-4B79-8E3B-10D637656DBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "64AsyncSleep3Awaits", "64AsyncSleep3Awaits\64AsyncSleep3Awaits.csproj", "{ADDC090A-12FF-4039-8FD5-63CE056FBE1F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "64AsyncSleep3Awaits", "64AsyncSleep3Awaits\64AsyncSleep3Awaits.csproj", "{ADDC090A-12FF-4039-8FD5-63CE056FBE1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "65AsyncSleep3Sleeps", "65AsyncSleep3Sleeps\65AsyncSleep3Sleeps.csproj", "{E9CEAEBC-1A5A-4265-A2AB-27162D3773ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -399,6 +401,10 @@ Global
 		{ADDC090A-12FF-4039-8FD5-63CE056FBE1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADDC090A-12FF-4039-8FD5-63CE056FBE1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADDC090A-12FF-4039-8FD5-63CE056FBE1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9CEAEBC-1A5A-4265-A2AB-27162D3773ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9CEAEBC-1A5A-4265-A2AB-27162D3773ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9CEAEBC-1A5A-4265-A2AB-27162D3773ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9CEAEBC-1A5A-4265-A2AB-27162D3773ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
